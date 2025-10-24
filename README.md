@@ -27,10 +27,10 @@ Este é um projeto de **Gerenciador de Senhas** desenvolvido com **React**, onde
 
 ```bash
 # Clone este repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/Murilloteixeira9/Gerador-de-Senhas.git
 
 # Acesse a pasta do projeto
-cd NOME-DO-REPOSITORIO
+cd Gerador-de-Senhas
 
 # Instale as dependências
 npm install
